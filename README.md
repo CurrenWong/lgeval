@@ -22,12 +22,12 @@ MathJax.Hub.Queue(function() {
 ---
 
 # Label Graph Evaluation Tools (LgEval) 
-## Version 0.3.4 (June 2016)  
+## Version 0.3.5 (June 2018)  
 
 ---  
    
    
-*Copyright (c) 2012-2016, Richard Zanibbi and Harold Mouchère*
+*Copyright (c) 2012-2018, Richard Zanibbi and Harold Mouchère*
 
 [Richard Zanibbi][rlaz] (rlaz@cs.rit.edu)  
 Document and Pattern Recognition Lab,
