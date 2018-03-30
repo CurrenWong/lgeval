@@ -374,11 +374,6 @@ From a file containing a list of .lg files (one per line), copy these files from
 	layout trees from a DAG with inherited relationships for math notation).  
 
 
-**crohme2lg**  
-    Perl program that converts CROHME InkML files (.inkml) to label graph files (.lg).
-
-
-
 **relabelEdges and relabelOldCROHME**  
 Tools to replace edge labels in 'old' label graph files using '*' to indicate
 merged primitives.
